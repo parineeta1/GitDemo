@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-28T18:47:37 EDT" name="Default suite" finished-at="2022-05-28T18:47:37 EDT" duration-ms="56">
+    <groups>
+    </groups>
+    <test started-at="2022-05-28T18:47:37 EDT" name="Default test" finished-at="2022-05-28T18:47:37 EDT" duration-ms="56">
+      <class name="icandoitwebsite.mavenjavaexample.SeleniumTest">
+        <test-method signature="browserUIAuotmation()[pri:0, instance:icandoitwebsite.mavenjavaexample.SeleniumTest@593aaf41]" started-at="2022-05-28T18:47:37 EDT" name="browserUIAuotmation" finished-at="2022-05-28T18:47:37 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserUIAuotmation -->
+        <test-method signature="loginUIAuto()[pri:0, instance:icandoitwebsite.mavenjavaexample.SeleniumTest@593aaf41]" started-at="2022-05-28T18:47:37 EDT" name="loginUIAuto" finished-at="2022-05-28T18:47:37 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUIAuto -->
+      </class> <!-- icandoitwebsite.mavenjavaexample.SeleniumTest -->
+      <class name="icandoitwebsite.mavenjavaexample.RESTAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:icandoitwebsite.mavenjavaexample.RESTAPITest@54bff557]" started-at="2022-05-28T18:47:37 EDT" name="deleteTwitter" finished-at="2022-05-28T18:47:37 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:icandoitwebsite.mavenjavaexample.RESTAPITest@54bff557]" started-at="2022-05-28T18:47:37 EDT" name="postJira" finished-at="2022-05-28T18:47:37 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- icandoitwebsite.mavenjavaexample.RESTAPITest -->
+      <class name="icandoitwebsite.mavenjavaexample.AppiumTest">
+        <test-method signature="iosApps()[pri:0, instance:icandoitwebsite.mavenjavaexample.AppiumTest@66d3eec0]" started-at="2022-05-28T18:47:37 EDT" name="iosApps" finished-at="2022-05-28T18:47:37 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApps -->
+        <test-method signature="nativeAppAndroid()[pri:0, instance:icandoitwebsite.mavenjavaexample.AppiumTest@66d3eec0]" started-at="2022-05-28T18:47:37 EDT" name="nativeAppAndroid" finished-at="2022-05-28T18:47:37 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- icandoitwebsite.mavenjavaexample.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
