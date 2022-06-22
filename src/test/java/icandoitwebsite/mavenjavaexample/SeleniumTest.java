@@ -7,6 +7,7 @@ public class SeleniumTest {
 	@Test
 	public void browserUIAuotmation() {
 		System.out.println("browserUIAuotmation");
+		System.out.println("web automation");
 	}
 
 	@Test
