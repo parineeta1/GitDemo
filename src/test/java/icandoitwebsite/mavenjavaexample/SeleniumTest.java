@@ -14,4 +14,9 @@ public class SeleniumTest {
 	public void loginUIAuto() {
 		System.out.println("loginUIAuto");
 	}
+	
+	@Test
+	public void logoutUIAuto() {
+		System.out.println("loginUIAuto");
+	}
 }
